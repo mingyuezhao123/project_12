@@ -1,8 +1,8 @@
 #忽略这个文件夹
-test/ 
+# test/ 
 #忽略a.css 这个文件
-a.css
+# a.css
 #忽略index.html(已经提交过的文件,修改过后,还是会被检测到,无法忽略)
-index.html
-tet.css
-b.css
+# index.html
+# tet.css
+# b.css
