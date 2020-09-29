@@ -1,0 +1,6 @@
+#忽略这个文件夹
+test/ 
+#忽略a.css 这个文件
+a.css
+#忽略index.html
+index.html
